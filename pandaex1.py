@@ -24,3 +24,5 @@ print(df.describe())
 # Select a column
 print("\nAges:")
 print(df['Age'])
+
+print(df)
