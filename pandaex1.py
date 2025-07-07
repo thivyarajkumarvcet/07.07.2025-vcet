@@ -26,3 +26,4 @@ print("\nAges:")
 print(df['Age'])
 
 print(df)
+print("dataframe succesfully dispalyed")
